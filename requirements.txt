@@ -5,4 +5,4 @@ spacy
 yake
 sentencepiece
 
-spacy download en_core_web_sm
+
